@@ -18,5 +18,6 @@
 - [x] complete
 - [ ] not done html
 - [x] done js \
-![cat image](https://in.pinterest.com/pin/lovely-baby-cat--212795151137404960/)
+![fast NU](https://github.com/user-attachments/assets/9d5c728d-f851-4e9d-8c20-392a94707d3e)
+
 
